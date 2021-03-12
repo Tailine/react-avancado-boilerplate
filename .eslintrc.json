@@ -4,7 +4,9 @@
     "es2021": true
   },
   "settings": {
-    "version": "detect"
+    "react": {
+      "version": "detect"
+    }
   },
   "extends": [
     "eslint:recommended",
